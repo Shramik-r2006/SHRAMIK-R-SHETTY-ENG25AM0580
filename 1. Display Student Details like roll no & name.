@@ -1,0 +1,11 @@
+public class Main {
+    public static void main(String[] args) {
+        int rollNo = 101;
+        String name = "Shramik";
+
+        System.out.println("Student Details");
+        System.out.println("Roll Number: " + rollNo);
+        System.out.println("Name: " + name);
+    }
+}
+
